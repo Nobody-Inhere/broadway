@@ -1,0 +1,27 @@
+.HeaderBig{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.links{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.process{
+  
+}
+
+.HeaderBig,.links,h1, h2, h3,
+p{
+  font-family: Helvetica;
+  text-align: center;
+}
