@@ -3,12 +3,16 @@
   font-size: 70px;
   font-weight: bold;
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
+
+
 
 .links{
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+  background-image: url("../images/the-flatiron-building.png")
 }
 
 h2{
@@ -17,11 +21,29 @@ h2{
 }
 
 .process{
-  
+  font-size: 32px;
+  font-weight: bold;
 }
 
-.HeaderBig,.links,h1, h2, h3,
+.procExplanation{
+  font-size: 14px;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.HeaderBig,.links,h1, h2, h3, #copyright,
 p{
   font-family: Helvetica;
   text-align: center;
+}
+
+#copyright{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
